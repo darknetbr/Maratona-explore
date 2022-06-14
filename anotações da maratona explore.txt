@@ -1,0 +1,209 @@
+anotações sobre tudo
+
+estuos diarios na programação que ajuda guia 
+
+aprendizado ativo x passivo= passivo onde vc escuta alguem falando assistir aulas, e aplica algo escreve pergunte 
+
+metodologia pergunta anota,revisar e explicar= seja ativo pergunte sobre tudo
+
+metodo pare= um sono bom e parar de vez enquando para organizar as ideias alocalas e não perde nenhuma ideia ou pensamento feito
+alem de anotar todas coisas em que pensar
+
+tecninca REC
+entenda= o que o professor ta explicando
+
+code= depois vc vai codar 
+
+revise= revisar o código apagar pedaços e tenta reescrever 
+
+Ajustar a mente
+
+.Fator tempo dar tempo para o cérebro assimilar as coisas
+.você precisa ter persistência
+.Programar é encontrar soluções
+."eu sinto que estou copiando e colando"
+.Você gosta do que está fazendo?
+
+
+fundamentos web
+
+-o que e programação
+. ensinar o computador
+,algoritimos= passo a passo e conjunto de regras
+,logica de programação= maneira de pensa onde vc vai aplicar
+,sintaxe= maneira correta de escrever
+
+.linguagem de programação
+,javascript
+
+-front-end e back-end
+.imagina que...
+,cliente chama= faz o pedido
+,servvidor escuta e responde= escuta o pedido e responde
+
+.como é feita essa comunicação?
+,htttp(hyperText transfer protocol)= um conjunto de regra e um protocolo uma pagina html tbm
+,url(universal resource locator)= e uma página html,imagem video
+,uma troca de dados= vc manda algo e volta algo como www.google que volta pra vc a pagina dele
+
+.Tecnologias do Front-end
+,html= ele serve pra escrever texto que contem links imagens videos e o esqueleto do front
+,css= estilo que deixa bonito e o charme 
+,javascript= o cérebro da aplicação que e responsavel da ação as coisas que da logica as cosias
+
+o que é css
+
+.Apresentação visual para o cliente	
+
+.estilos para o html
+
+. cascading style sheets(folha de estilo em cascata)
+
+
+#declaração
+-seletor
+-propriedade e valor
+
+#conceitos 
+-cascata
+-especificodade
+-box model
+conceitos de box model
+.tudo são caixas
+.caixas possuem determinadas propriedades
+
+margin= margem
+border= borda 
+padding= preenchimento
+content
+
+o que é js?
+
+.Linguagem de programação 
+,interpretada e executada pelos navegadores
+
+.A inteligencia da tríade
+,HTML é a estrutura, css é beleza e JS é a inteligencia
+
+>Não e java
+apesar do nome ser semelhante, são linguaguens diferente
+
+------------------------------------------------------------------------------------------------
+Por que js?
+
+.Aplicativos 
+para web, desktop (electron e mobile (react native)
+
+.Empresas famosas
+instagram, google, netflix, tiktok...
+
+.Moderna e viva
+comunidade e linguagem que cresce cada vez mais 
+
+sintaxe
+imagem na pasta de estudos programação
+
+--------------------------------------------------------------------------------------------------
+
+Executando js
+.De maneira imediata
+no browser a partir de ferramenta devtools apertando o atalho f12 no seu teclado
+
+plataformas online (codepen.io, fronteditor.dev)
+------------------------------------------------------------------------------------------------
+8 principios de variaveis
+
+1 variavel
+
+let estachovendo = true
+const meunome = "mayk"
+
+let pode ser mudado
+const n pode sempre e o mesmo
+
+sem que for separa palavras bota letra maiuscula em vez de espaço
+------------------------------------------------------------------------------------------
+2 tipos de dados
+
+//string cadeia de caracteres
+""
+''
+number
+12 integer (inteiro) + -
+3.2 - float (flutuantes ou quebrados) + -
+
+Boolean
+e o famoso true ou false
+
+undefined - indefinido
+
+---------------------------------------------------------------------------------------------
+3 operadoser
+atribuição (ex: =)
+let n1 = 12
+let n2 = 3
+
+console.log(n1+n2)
+
+aritméticos (ex: * / + -)
+calculos matematicos simples
+
+true e 1
+flase e 0
+
+exemplo de cada um na pasta estudando programação
+
+concatenação que e uma string -> ("" com o +)
+
+comparação (ex: > < = )
+transforma a empressão em true ou false
+
+img na pasta
+-----------------------------------------------------------------------------------------------
+4 condicional (if/else)
+foto na pasta
+
+------------------------------------------------------------------------------------------------
+5 estrutura de dados
+array - vetor - list
+array o inde
+array e simplesmente uma lista img na pasta
+
+Object
+propriedade e valor
+-------------------------------------------------------------------------------------------------
+6 função
+
+1 crianção dela
+img na pasta
+
+2 execução
+nomeDaFuncao
+img na pasta
+
+Parêmetros
+img na pasta
+S
+retorno serve pra uma função retorna algo
+
+function soma(a, b) {
+return a+b
+}
+
+const multiplica = soma(2, 2) * 4
+------------------------------------------------------------------------------------------------
+7. extensões da linguaguem (ex.: math, date ...)
+
+math.tandom() tras um numero random entre 0 e 1
+math.floor(1.2) vai arrendodar pra baixo
+math.ceil(1.2) vai arrendodar pra cima
+math.PI mostra o pi
+
+--------------------------------------------------------------------------------------------------
+8 DOM document object model
+
+widow.alert("alerta") abreviação que pode ser usada alert
+document
+document.write("texto) abreviação = write
+manipular elemento
+document.documentElemente.style.background = "black"
